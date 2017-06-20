@@ -1,0 +1,126 @@
+/* body*/
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url('images/fondo.jpg');
+    background-position: 50%;
+}
+
+  .container-fluid {
+     height: 100%;
+     width: 100% ;
+  }
+/* body*/
+
+
+
+/* navbar */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+      background-color: rgba(255, 255, 255, 1);
+    }
+
+    .navbar .nav > li > a:hover {
+    color: #ffffff;
+    background-color: #ccc;
+}
+/* navbar */ 
+
+
+
+/* markers */ 
+#markers {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0);
+  padding: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+
+
+#fondomarkerQuemado {
+  background-color: rgba(230, 0, 4, 0.6);
+  }
+#fondomarkerQuemado:hover {
+background-color: rgba(230, 0, 4, 0.7);
+}
+
+#fondomarkerRoto {
+  background-color: rgba(34, 230, 0, 0.6);
+}
+#fondomarkerRoto:hover {
+  background-color: rgba(34, 230, 0, 0.7);
+}
+
+#fondomarkerSucio {
+  background-color: rgba(11, 0, 230, 0.6);
+}
+#fondomarkerSucio:hover {
+  background-color: rgba(11, 0, 230, 0.7);
+}
+
+
+
+
+}
+.panel-footer {
+    padding: 10px 15px;
+    background-color: rgba(204, 204, 204, 0.5);
+}
+
+.panel-default>.panel-heading {
+    color: #000000;
+    background-color: rgba(204, 204, 204, 0.5);
+}
+
+.btn.btn-lg {
+background-color: #ffffff;
+border-color: #ccc;
+}
+
+.btn.btn-lg:hover {
+background-color: #b3b3b3;
+border-color: #ccc;
+}
+
+/* markers */ 
+
+
+
+#divContacto {
+  background-color: rgba(204, 204, 204, 0.5);
+  width: 100%;
+  text-transform: uppercase;
+
+}
+
+
+/* footer */ 
+footer {
+      background-color: rgba(255, 255, 255, 1);
+      padding: 15px;
+      padding-bottom: 15px;
+      text-align: center;
+      font-weight: bolder;
+      margin-bottom: 15px;v
+}
+
+
+ /*API MAPA */
+      #map {
+        height: 100%;
+        width: 100%;
+        border: 2px solid #ffffff;
+      }
+ /*API MAPA */
+
+
+     
+      html, body {
+        height: 85%;
+        margin: 0;
+        padding: 5px;
+
+      }

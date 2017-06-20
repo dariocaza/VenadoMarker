@@ -1,0 +1,148 @@
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\ApplicationInsights.config
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\csc.exe
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\csc.exe.config
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\csc.rsp
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\csi.exe
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\csi.rsp
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\System.AppContext.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\System.Collections.Immutable.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\System.IO.FileSystem.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\vbc.exe
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\vbc.exe.config
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\vbc.rsp
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\VBCSCompiler.exe
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\roslyn\VBCSCompiler.exe.config
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\DarioCazabat.dll.config
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\DarioCazabat.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\DarioCazabat.pdb
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Antlr3.Runtime.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.Web.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.WindowsServer.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.ApplicationInsights.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.Web.Infrastructure.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Newtonsoft.Json.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.Helpers.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.Mvc.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.Optimization.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.Razor.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.WebPages.Deployment.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.WebPages.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.WebPages.Razor.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\WebGrease.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.Helpers.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.Mvc.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.Optimization.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.Razor.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.WebPages.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.WebPages.Deployment.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\System.Web.WebPages.Razor.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Antlr3.Runtime.pdb
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Newtonsoft.Json.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.ApplicationInsights.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.WindowsServer.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\Microsoft.AI.Web.xml
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\es\System.Web.Helpers.resources.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\es\System.Web.Mvc.resources.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\es\System.Web.Optimization.resources.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\es\System.Web.Razor.resources.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\es\System.Web.WebPages.resources.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\obj\Debug\DarioCazabat.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\obj\Debug\DarioCazabat.dll
+c:\users\johnny\documents\visual studio 2017\Projects\DarioCazabat\DarioCazabat\obj\Debug\DarioCazabat.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\ApplicationInsights.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\csc.rsp
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\csi.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\csi.rsp
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\DarioCazabat.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\DarioCazabat.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\DarioCazabat.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.Web.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.Razor.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\WebGrease.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.Razor.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\Microsoft.AI.Web.xml
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\obj\Debug\DarioCazabat.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\obj\Debug\DarioCazabat.dll
+C:\Users\Usuario\Documents\Visual Studio 2017\Projects\Venado Marker\DarioCazabat\obj\Debug\DarioCazabat.pdb

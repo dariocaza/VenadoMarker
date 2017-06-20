@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - VENADO Marker</title>
+
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+<!--    CODIGO AGREGADO    -->
+
+    <!--icono de pagina-->
+    <link rel="shortcut icon" href="~/Content/images/favicon.png"/>
+
+    <!--hoja de estilo css aparte de la de bootstrap-->
+    <link href="~/Content/estilos.css" rel="stylesheet"/>
+
+    <!--google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+<!--    CODIGO AGREGADO    -->
+
+
+</head>
+
+<body>
+
+    <div class="col-md-12">
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="index.html" class="navbar-brand"><img src="~/Content/images/logo.png" style="margin-top:-10px; width: 100px;"></a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav">
+                        <li><a href="@Url.Action("Index", "Home")">HOME</a></li>
+                        <li><a href="@Url.Action("ComoFunciona", "Home")">COMO FUNCIONA</a></li>
+                        <li><a href="@Url.Action("PreguntasFrecuentes", "Home")">PREGUNTAS FRECUENTES</a></li>
+                        <li><a href="@Url.Action("Contacto", "Home")">CONTACTO</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li id="iniciar"><a href="#" data-toggle="modal" data-target="#modalInicioSesion">Iniciar sesión</a></li>
+                        <li class="dropdown menuUsuario hide">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span id="nombreUsuario"></span><span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#">Mi perfil</a></li>
+                                <li role="separator" class="divider"></li>
+                                <li><a id="salir" href="#">Salir</a></li>
+                            </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+
+        @RenderBody()
+
+    <div class="row">
+        <!--comienzo footer-->
+
+        <div class="col-md-12">
+
+            <footer>
+                Todos los derechos reservados "VENADO Marker" 2017 de MarkerYourCity
+            </footer>
+        </div>
+    </div> 	
+
+
+    @Scripts.Render("~/bundles/jquery")
+
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <script src="~/Scripts/general.js"></script>
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>

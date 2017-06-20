@@ -1,0 +1,119 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<br>
+<br>
+<br>
+
+<div id="map">
+    <script>
+
+				// Los markers aparecen cuando haga click en el map.
+			    // cada marker tendra una letra asignada del alfabeto.
+			    var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+			    var labelIndex = 0;
+
+			    var map;
+			    function initMap() {
+			        map = new google.maps.Map(document.getElementById('map'), {
+			          center: {lat: -33.7497, lng: -61.9669},
+			          zoom: 15
+			        });
+
+			         // El evento q llamamos addMarker() aparecera cuando hagamos click en el mapa.
+			        google.maps.event.addListener(map, 'click', function(event) {
+			          addMarker(event.latLng, map);
+			        });
+
+
+			      // Agregar un marker al mapa.
+			      function addMarker(location, map) {
+			        // El nuevo marker aparecera cuando hagamos click, y tendra la porx etiqueta
+			        // del array de caracteres alfabeticos.
+			        var marker = new google.maps.Marker({
+			          position: location,
+			          draggable: true,
+			          label: labels[labelIndex++ % labels.length],
+			          map: map
+			        });
+			      }
+			    }
+    </script>
+</div>
+
+<br>
+
+
+<div class="col-md-12" id="markers">
+    <div class="container-fluid">
+        <div class="text-center">
+            <h5>ELEGI TU MARKER</h5>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading" id="fondomarkerQuemado">
+                        <h4>FOCO QUEMADO</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Selecciona este Marker para comunicarnos si hay una luminaria con un <strong>FOCO QUEMADO</strong></p>
+                        <button class="btn btn-lg">Seleccionar</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading" id="fondomarkerRoto">
+                        <h4>VIDRIO ROTO</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Selecciona este Marker para comunicarnos si hay una luminaria con un <strong>VIDRIO ROTO</strong></p>
+                        <button class="btn btn-lg">Seleccionar</button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading" id="fondomarkerSucio">
+                        <h4>SUCIEDAD</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Selecciona este Marker para comunicarnos si hay una luminaria con <strong>SUCIEDAD</strong></p>
+                        <button class="btn btn-lg">Seleccionar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- Modal de Inicio de Sesión -->
+<div class="modal fade" id="modalInicioSesion" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Ingresa!</h4>
+            </div>
+            <div class="modal-body">
+                <form class="form-signin">
+                    <label for="loginEmail" class="sr-only">Email</label>
+                    <input type="email" id="loginEmail" class="form-control" placeholder="Email" required="" autofocus="">
+                    <label for="loginContraseña" class="sr-only">Contraseña</label>
+                    <input type="password" id="loginContraseña" class="form-control" placeholder="Contraseña" required="">
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                <button id="ingresar" type="button" class="btn btn-primary" data-dismiss="modal">Ingresar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Fin modal de Inicio de Sesión -->
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVwDrRn27yo6AGTIKlSHcpXHl3jAYIGx0&callback=initMap"></script>
